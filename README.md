@@ -1,1 +1,1 @@
-# gaurav
+The ML_ASSIGNMENT_SPAM_DETECTION is a .pynb file . This was an assignment from an ML course I took , the dataset contains nearly 5000 messages and I had to classify them as HAM or SPAM messages . I took the data did some preprocessing required, vectorization and applied Logistic Regression(required in assignment) . The code itself is quite self explanatory as it contains comments (within the code) wherever necessary and also has comments between the code snippets . I have attached another pdf file which covers the methodology and oncepts covered in the assignment .
